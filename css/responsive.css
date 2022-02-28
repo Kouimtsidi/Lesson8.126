@@ -10,7 +10,27 @@
     .list {
         flex-direction: column;
         align-items: center;
-        width: 100%;
+        width: 60%;
+    }
+    
+}
+@media (max-width:900px) {
+    .div-wrap {
+        width:250px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+}
+@media (max-width:900px) {
+    .title-h2 {
+        margin-left: 200px;
+        width:100%
+    }
+}
+@media (max-width:900px) {
+    .p-text2 {
+        margin-left: 80px;
     }
     
 }
