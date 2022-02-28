@@ -1,0 +1,16 @@
+@media (max-width:900px) {
+    .block {
+        flex-wrap:wrap;
+        justify-content: center;
+        width:100%;
+    }
+}
+
+@media (max-width:900px) {
+    .list {
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+    
+}
