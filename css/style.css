@@ -69,22 +69,22 @@
 .list{
   display: flex;
   width: 1100px;
-  height: 400px;
   justify-content: space-between;
   margin-top: 50px;
   opacity: 0.75;
 }
 .box1 {
   background-color: #fbba77;
+  margin-top: 25px;
 }
 .box2 {
   background-color: aqua;
-  margin: 0 25px;
+  margin: 25px 25px;
   
 }
 .box3 {
   background-color: blueviolet;
-  margin-bottom: 40px;
+  margin: 25px 0;
   
 }
 .box4 {
@@ -93,7 +93,7 @@
 }
 .box5 {
   background-color: #a5a2f6;
-  margin-top: 40px;
+  margin: 40px 25px;
   
 }
 .box6 {
